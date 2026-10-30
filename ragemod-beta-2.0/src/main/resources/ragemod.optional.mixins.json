@@ -1,0 +1,14 @@
+{
+ "required": false,
+ "minVersion": "0.8",
+ "package": "com.ragemod.mixin",
+ "compatibilityLevel": "JAVA_21",
+ "client": [
+  "PlayerMixin",
+  "EntityMixin",
+  "PlayerTabOverlayMixin"
+ ],
+ "injectors": {
+  "defaultRequire": 0
+ }
+}

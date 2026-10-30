@@ -1,0 +1,16 @@
+{
+ "key.category.ragemod.main": "RAGE Mod",
+ "key.ragemod.menu": "Open RAGE menu",
+ "key.ragemod.radial": "Radial menu (on player)",
+ "key.ragemod.hitboxes": "Toggle hitboxes",
+ "key.ragemod.afk": "Toggle anti-AFK",
+ "key.ragemod.autojoin": "Toggle auto join",
+ "key.ragemod.kill": "Kill keybind",
+ "key.ragemod.help": "Ask mod users for help",
+ "key.ragemod.stats": "Open stats",
+ "key.ragemod.players": "Open players",
+ "key.ragemod.info": "Open player info",
+ "key.ragemod.priority": "Set looked-at player as top priority target",
+ "key.ragemod.network": "Open mod users / chat",
+ "key.ragemod.config": "Open config"
+}
